@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="add_journal_content">Pen down your ideas...</string>
+    <string name="save_button">Save</string>
+    <string name="update_button">Update</string>
+    <string name="journal_detail">Journal Details</string>
+</resources>
