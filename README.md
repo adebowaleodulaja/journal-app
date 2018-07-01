@@ -17,6 +17,10 @@ Android Studio 2.3 or higher.
 3. Login using the Google Signin Button
 4. Add, Modify and/or Delete Journal
 
+### If you need the APK
+
+You can find the apk in this path (app/release/app-release.apk)
+
 ## Built With
 
 * Android Studio 3.0
